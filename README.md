@@ -162,7 +162,7 @@ python test.py
 
 # 👨‍💻 Author
 
-Prashant Kumar
+Prashant Kumar , Prateek Khatana
 
 B.Tech CSE (AI & ML)
 
